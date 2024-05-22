@@ -1,0 +1,16 @@
+{
+  "name": "example-cypress-testbeats",
+  "version": "1.0.0",
+  "description": "example repo to showcase integration of cypress with testbeats",
+  "main": "index.js",
+  "scripts": {
+    "test": "cypress run",
+    "cy:open": "cypress open"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^13.10.0"
+  }
+}
